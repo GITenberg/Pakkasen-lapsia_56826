@@ -1,10 +1,13 @@
 _repo: Pakkasen-lapsia_56826
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Uotila, Ilmari
     gutenberg_agent_id: '49051'
     url: http://www.gutenberg.org/2009/agents/49051
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: Translations of selected stories from "Children of the frost."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56826#Pakkasen-lapsia
 gutenberg_issued: '2018-03-24'
 gutenberg_type: Text
 identifiers:
