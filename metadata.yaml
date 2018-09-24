@@ -1,0 +1,36 @@
+_repo: Pakkasen-lapsia_56826
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Uotila, Ilmari
+    gutenberg_agent_id: '49051'
+    url: http://www.gutenberg.org/2009/agents/49051
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: Translations of selected stories from "Children of the frost."
+gutenberg_issued: '2018-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56826'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'American fiction -- Translations into Finnish'
+- !lcsh 'Indians of North America -- Fiction'
+- GITenberg
+tableOfContents: Elämän laki -- Valheellinen Nam-Bok -- Keesh, Keesh'in poika -- Kaunis
+  Li-Wan -- Salaisuuksien Haltija.
+title: Pakkasen lapsia
+url: http://www.gutenberg.org/ebooks/56826
